@@ -48,7 +48,7 @@ rate-limit bars in one dependency-light Bash script.
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-d97757?logo=anthropic&logoColor=white)
 
-<br>
+<br><br>
 
 ### 🪟 [portfolio](https://walidnabilx.github.io)
 **A desktop OS in your browser** — boot screen, window manager, apps. Bilingual
