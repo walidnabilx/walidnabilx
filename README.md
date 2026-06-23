@@ -47,11 +47,11 @@ rate-limit bars in one dependency-light Bash script.
 
 <br>
 
-### 🪟 [portfolio](https://walidnabilx.github.io) · _soon_
+### 🪟 [portfolio](https://walidnabilx.github.io)
 **A desktop OS in your browser** — boot screen, window manager, apps. Bilingual
 EN/AR with full RTL. Pure HTML/CSS/JS, no build step.
 
-![Pages](https://img.shields.io/badge/GitHub%20Pages-soon-7c5cff)
+[![Pages](https://img.shields.io/badge/live-walidnabilx.github.io-2ea043?logo=github)](https://walidnabilx.github.io)
 
 </td>
 </tr>
