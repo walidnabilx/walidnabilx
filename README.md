@@ -9,13 +9,13 @@
 
 ```text
 walid@github:~$ whoami
-╭───────────────────────────────────────────────╮
+╭─────────────────────────────────────────────────╮
 │  Walid Nabil — Software Engineer · Egypt 🇪🇬     │
-│  ───────────────────────────────────────────   │
+│  ───────────────────────────────────────────    │
 │  Just a human loving software engineering ♥️    │
 │  11+ years building software · EN / AR          │
 │  Now bringing my work into the open.            │
-╰───────────────────────────────────────────────╯
+╰─────────────────────────────────────────────────╯
 walid@github:~$ ls ./featured
 ```
 
