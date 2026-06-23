@@ -30,6 +30,15 @@ Network-first extraction: complete, fast, faithful. Full-Context mode embeds ima
 ![MV3](https://img.shields.io/badge/manifest-v3-1f6feb)
 ![MIT](https://img.shields.io/badge/license-MIT-555)
 
+<br>
+
+### 👁️ [smartvision](https://github.com/walidnabilx/smartvision)
+**Computer-vision PoC** — detects trash drops, wrong-way vehicles & pedestrian
+density from video, with annotated evidence clips. OpenCV, no GPU.
+
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?logo=opencv&logoColor=white)
+
 </td>
 <td width="50%" valign="top">
 
@@ -60,6 +69,8 @@ EN/AR with full RTL. Pure HTML/CSS/JS, no build step.
 ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-ff2d20?logo=laravel&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?logo=opencv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white)
 
