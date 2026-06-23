@@ -30,7 +30,6 @@ Network-first extraction: complete, fast, faithful. Full-Context mode embeds ima
 ![MV3](https://img.shields.io/badge/manifest-v3-1f6feb)
 ![MIT](https://img.shields.io/badge/license-MIT-555)
 
-<br>
 
 ### 👁️ [smartvision](https://github.com/walidnabilx/smartvision)
 **Computer-vision PoC** — detects trash drops, wrong-way vehicles & pedestrian
