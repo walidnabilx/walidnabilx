@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- one tasteful animated line -->
-<a href="https://github.com/walidnabilx">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=7C5CFF&center=true&vCenter=true&width=520&lines=Just+a+human+loving+software+engineering+%E2%99%A5%EF%B8%8F;Building+small%2C+sharp%2C+honest+tools;11%2B+years+shipping+software" alt="Walid Nabil" />
-</a>
-
 </div>
 
 ```text
