@@ -8,7 +8,7 @@ walid@github:~$ whoami
 │  Walid Nabil — Software Engineer · Egypt 🇪🇬     │
 │  ───────────────────────────────────────────    │
 │  Just a human loving software engineering ♥️    │
-│  11+ years building software · EN / AR          │
+│  11+ years building software·                   │
 │  Now bringing my work into the open.            │
 ╰─────────────────────────────────────────────────╯
 walid@github:~$ ls ./featured
